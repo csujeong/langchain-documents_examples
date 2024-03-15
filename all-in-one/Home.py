@@ -19,23 +19,23 @@ st.markdown(
 
     ##### Web Search
     * A sample app for web search queries using LangChain and Serper API.
-    * References: Blog | [Source Code](https://github.com/alphasecio/langchain-examples/blob/main/search) | [Python Notebook](https://github.com/alphasecio/langchain-examples/blob/main/search/langchain_search.ipynb)
+    * References: Blog | [Source Code](https://github.com/alphasecio/langchain-examples/blob/main/search) | [Python Notebook](https://github.com/csujeong/langchain-documents_examples-jcs/blob/main/search/langchain_search.ipynb)
     * *Note: The all-in-one search app has been modified to use Serper API instead of SerpApi.*
 
     ##### URL Summary
     * A sample app for summarizing URL content using LangChain and OpenAI.
-    * References: [Blog](https://alphasec.io/blinkist-for-urls-with-langchain-and-openai) | [Source Code](https://github.com/alphasecio/langchain-examples/blob/main/url-summary)
+    * References: [Blog](https://alphasec.io/blinkist-for-urls-with-langchain-and-openai) | [Source Code](https://github.com/csujeong/langchain-documents_examples-jcs/blob/main/url-summary)
 
     ##### Text Summary
     * A sample app for summarizing text using LangChain and OpenAI.
-    * References: [Blog](https://alphasec.io/summarize-text-with-langchain-and-openai) | [Source Code](https://github.com/alphasecio/langchain-examples/blob/main/text-summary) | [Python Notebook](https://github.com/alphasecio/langchain-examples/blob/main/text-summary/langchain_text_summarizer.ipynb)
+    * References: [Blog](https://alphasec.io/summarize-text-with-langchain-and-openai) | [Source Code](https://github.com/csujeong/langchain-documents_examples-jcs/blob/main/text-summary) | [Python Notebook](https://github.com/alphasecio/langchain-examples/blob/main/text-summary/langchain_text_summarizer.ipynb)
 
     ##### Document Summary
     * A sample app for summarizing documents using LangChain and Chroma.
-    * References: [Blog](https://alphasec.io/summarize-documents-with-langchain-and-chroma) | [Source Code](https://github.com/alphasecio/langchain-examples/blob/main/chroma-summary) | [Python Notebook](https://github.com/alphasecio/langchain-examples/blob/main/chroma-summary/langchain_doc_summarizer.ipynb)
+    * References: [Blog](https://alphasec.io/summarize-documents-with-langchain-and-chroma) | [Source Code](https://github.com/csujeong/langchain-documents_examples-jcs/blob/main/chroma-summary) | [Python Notebook](https://github.com/alphasecio/langchain-examples/blob/main/chroma-summary/langchain_doc_summarizer.ipynb)
 
     ##### News Summary
     * A sample app for Google news search and summaries using LangChain and Serper API.
-    * References: [Blog](https://alphasec.io/summarize-google-news-results-with-langchain-and-serper-api) | [Source Code](https://github.com/alphasecio/langchain-examples/blob/main/news-summary)
+    * References: [Blog](https://alphasec.io/summarize-google-news-results-with-langchain-and-serper-api) | [Source Code](https://github.com/csujeong/langchain-documents_examples-jcs/blob/main/news-summary)
     """
 )
