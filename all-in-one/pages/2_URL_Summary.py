@@ -31,7 +31,7 @@ if st.button("Summarize"):
                 data = loader.load()
                 
                 # Initialize the ChatOpenAI module, load and run the summarize chain
-                llm = ChatOpenAI(temperature=0, model='gpt-3.5-turbo', openai_api_key=openai_api_key)
+                llm = ChatOpenAI(temperature=0, model='gpt-4-0125-preview', openai_api_key=openai_api_key)
                 prompt_template = """Write a summary of the following in 250-300 words.
                     
                     {text}
